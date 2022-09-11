@@ -1,3 +1,5 @@
-Lecture name: AI Deep Learning
-\\  
-Instructor: Dong-Ok Won
+# Lecture: AI Deep Learning (2022)
+
+Dept of AI Convergence, Hallym University
+
+Dong-Ok Won
